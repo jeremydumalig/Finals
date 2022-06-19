@@ -1,6 +1,6 @@
 # The 2022 NBA Finals in Review
 
-*This project presents a graphical summary of the 2022 NBA Finals, including game score animations and static lead trackers.. The full project can be found [here](https://jeremydumalig.com/finals/).*
+*This project presents a graphical summary of the 2022 NBA Finals, including game score animations and static lead trackers. The full project can be found [here](https://jeremydumalig.com/finals/).*
 
 *Packages/Libraries Used : numpy, pandas, BeautifulSoup, selenium* <br>
 *Packages/Libraries Used : tidyverse, ggplot, gganimate, gifski*
